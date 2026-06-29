@@ -83,4 +83,4 @@ results_df.to_csv('monte_carlo_results.csv', index=False)
 ```
 Author: Samuel Antonio Cañedo Pérez
 
-Research Focus: Micro-Econometric Panel Data Methodologies (Spring 2026)
+Research Focus: Selected Topics on Panel Data (Fall 2026)
